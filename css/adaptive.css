@@ -1,0 +1,50 @@
+@media (max-width: 1200px) {
+    .video {
+        width: 720px;
+        height: 385px;;
+    }
+}
+
+@media (max-width: 768px) {
+    .video {
+        width: 450px;
+        height: 306px;;
+    }
+    .hero-button {
+        font-family: 'Montserrat', sans-serif;
+        background-color: #079b87;
+        box-shadow: 0 0 18px #079b87;
+        color: white;
+        border: none;
+        font-weight: bold;
+        width: 300px;
+        height: 100px;
+        font-size: 18pt;
+        margin-top: 55px;
+        cursor: pointer;
+    }
+}
+
+@media (max-width: 570px) {
+    .video {
+        width: 350px;
+        height: 180px;
+    }
+    .hero-icons img {
+        width: 335px;
+        height: 28px;
+    }
+}
+
+@media (max-width: 420px) {
+    .video {
+        width: 330px;
+        height: 185px;
+    }
+    .hero-button {
+        
+        width: 200px;
+        height: 60px;
+        font-size: 11pt;
+        
+}
